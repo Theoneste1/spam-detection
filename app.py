@@ -6,7 +6,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.models import load_model
 
 
-st.title("Email Classifier")
+# st.title("Email Classifier")
 st.title("App is done by Theoneste, Musa, Pacifique and Patric")
 	# st.subheader("ML App with Streamlit")
 html_temp = """
