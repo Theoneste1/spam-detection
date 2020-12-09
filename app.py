@@ -7,7 +7,7 @@ from tensorflow.keras.models import load_model
 
 
 # st.title("Email Classifier")
-st.title("App is done by Theoneste, Musa, Pacifique and Patric")
+st.title("App is done by Theoneste, Musa, Pacifique and Patrique")
 	# st.subheader("ML App with Streamlit")
 html_temp = """
 	<div style="background-color:green;padding:10px">
